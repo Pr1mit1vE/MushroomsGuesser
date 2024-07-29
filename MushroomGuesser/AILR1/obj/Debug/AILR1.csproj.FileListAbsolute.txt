@@ -1,0 +1,11 @@
+C:\Users\artyo\source\repos\AILR1\AILR1\bin\Debug\AILR1.exe.config
+C:\Users\artyo\source\repos\AILR1\AILR1\bin\Debug\AILR1.exe
+C:\Users\artyo\source\repos\AILR1\AILR1\bin\Debug\AILR1.pdb
+C:\Users\artyo\source\repos\AILR1\AILR1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\artyo\source\repos\AILR1\AILR1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\artyo\source\repos\AILR1\AILR1\obj\Debug\AILR1.csproj.AssemblyReference.cache
+C:\Users\artyo\source\repos\AILR1\AILR1\obj\Debug\AILR1.csproj.SuggestedBindingRedirects.cache
+C:\Users\artyo\source\repos\AILR1\AILR1\obj\Debug\AILR1.csproj.CoreCompileInputs.cache
+C:\Users\artyo\source\repos\AILR1\AILR1\obj\Debug\AILR1.csproj.CopyComplete
+C:\Users\artyo\source\repos\AILR1\AILR1\obj\Debug\AILR1.exe
+C:\Users\artyo\source\repos\AILR1\AILR1\obj\Debug\AILR1.pdb
